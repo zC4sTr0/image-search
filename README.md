@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# image-search - Created to follow the study of React.
+
+I'm a student of the Udemy's course Modern React with Redux - 2020 and we will use github to store our repositories.
+
+# Image Search - A Small Program to study API fetching and React Events.
+>>>>>>> 2ffdb200324299f68e98254a254ccdd498f99661
